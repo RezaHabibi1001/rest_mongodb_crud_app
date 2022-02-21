@@ -1,0 +1,25 @@
+{
+  "name": "data-art-website",
+  "version": "1.0.0",
+  "description": "this is a website to manage our project and share the progression of our work with customers",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon  index.js"
+  },
+  "keywords": [
+    "data",
+    "art",
+    "website",
+    "Reza",
+    "Habibi"
+  ],
+  "author": "Reza Habibi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
