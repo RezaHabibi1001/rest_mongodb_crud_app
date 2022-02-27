@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "this is a website to manage our project and share the progression of our work with customers",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "nodemon  index.js"
   },
